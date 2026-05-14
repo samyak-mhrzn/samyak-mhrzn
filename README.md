@@ -18,6 +18,6 @@ I am a recent high school graduate currently preparing for the **IOE Entrance Ex
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-- **LinkedIn:** linkedin.com/in/samyak-maharjan-74907040b
+- **LinkedIn:** https://linkedin.com/in/samyak-maharjan-74907040b
 - **Email:** samyakmhrzn01@gmail.com
 - **Location:** Lalitpur, Nepal 🇳🇵
