@@ -4,8 +4,8 @@ I am a recent high school graduate currently preparing for the **IOE Entrance Ex
 
 ### 🚀 What I'm Up To
 - 🎓 **Currently:** Preparing for IOE entrance exams.
-- 💻 **Learning:** [Your Course, e.g., Full-Stack Web Development with React].
-- 🔭 **Working on:** [Simple Project Name, e.g., A Nepali Unit Converter App].
+- 💻 **Learning:** 
+- 🔭 **Working on:** 
 
 ### 🛠 Tech Stack & Tools
 <!-- You can use badges here to make it look professional -->
@@ -18,6 +18,6 @@ I am a recent high school graduate currently preparing for the **IOE Entrance Ex
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-- **LinkedIn:** [link to your profile]
+- **LinkedIn:** linkedin.com/in/samyak-maharjan-74907040b
 - **Email:** samyakmhrzn01@gmail.com
 - **Location:** Lalitpur, Nepal 🇳🇵
