@@ -1,16 +1,23 @@
-## Hi there 👋
+# Namaste, I'm Samyak! 👋
 
-<!--
-**samyak-mhrzn/samyak-mhrzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent high school graduate currently preparing for the **IOE Entrance Exams** and pursuing a career in **Computer Engineering**. I'm passionate about building software that solves local problems in Nepal.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Up To
+- 🎓 **Currently:** Preparing for IOE entrance exams.
+- 💻 **Learning:** [Your Course, e.g., Full-Stack Web Development with React].
+- 🔭 **Working on:** [Simple Project Name, e.g., A Nepali Unit Converter App].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+<!-- You can use badges here to make it look professional -->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📈 My Progress
+<!-- This is a dynamic stat card that updates automatically -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+- **LinkedIn:** [link to your profile]
+- **Email:** samyakmhrzn01@gmail.com
+- **Location:** Lalitpur, Nepal 🇳🇵
