@@ -4,8 +4,8 @@ I am a recent high school graduate currently preparing for the **IOE Entrance Ex
 
 ### 🚀 What I'm Up To
 - 🎓 **Currently:** Preparing for IOE entrance exams.
-- 💻 **Learning:** Full Stack Development
-- 🔭 **Working on:** 
+- 💻 **Learning:** Full Stack Development with Html, Css, JS and Python
+- 🔭 **Working on:** Full Stack Projects
 
 ### 🛠 Tech Stack & Tools
 <!-- You can use badges here to make it look professional -->
