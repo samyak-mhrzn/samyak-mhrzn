@@ -17,7 +17,7 @@ I am a recent high school graduate currently preparing for the **IOE Entrance Ex
 
 ### 📈 My Progress
 <!-- This is a dynamic stat card that updates automatically -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyak-mhrzn&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyak-mhrzn&show_icons=true)
 
 ### 📫 Connect with Me
 - **LinkedIn:** https://linkedin.com/in/samyak-maharjan-74907040b
